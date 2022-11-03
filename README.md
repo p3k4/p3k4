@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p3k4 (peka)
-- 👀 I’m interested in Front-end and back-end development, people and IT-systems.
+- 👀 I’m interested in both frontend and backend development, people and IT-systems.
 - 🌱 I’m currently learning Python, Javascript, HTML, PHP and CSS.
-- 📫 How to reach me per.chr.vain@gmail.com
+- 📫 How to reach me: e-mail per.chr.vain@gmail.com
 
 <!---
 p3k4/p3k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
