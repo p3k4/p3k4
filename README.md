@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p3k4 (peka)
-- 👀 I’m interested in both frontend and backend development, people and IT-systems.
+- 👀 I’m interested in both frontend and backend development, people and systems in general.
 - 🌱 I’m currently learning Python, Javascript, HTML, PHP and CSS.
 - 📫 How to reach me: e-mail per.chr.vain@gmail.com
 
