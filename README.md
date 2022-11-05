@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Canvas and objects in HTML/Javascript (particles), and some added fancy CSS animations.
 - 📫 How to reach me: [send me an e-mail!](per.chr.vain@gmail.com)
 
-- :coffee: [Buy me a coffee!](https://www.buymeacoffee.com/perchr)
+- Want to donate? :coffee: [Buy me a coffee!](https://www.buymeacoffee.com/perchr)
 
 <!---
 p3k4/p3k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
