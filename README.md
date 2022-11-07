@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p3k4 (nickname peka).
+- 👋 Hi, I’m @p3k4
 - 👀 I’m interested in both front-end and back-end focued development, people and systems in general.
 - 🌱 I’m currently learning about Canvas and objects in HTML/Javascript (particles), and some added fancy CSS animations.
 - 📫 How to reach me: [Send me an e-mail.](mailto:per.chr.vain@gmail.com)
