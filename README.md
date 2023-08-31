@@ -1,4 +1,4 @@
-- 👋 Hi, I’m p3k4 (pekå), Per_himself
+- 👋 Hi, I’m p3k4 (pekå) aka. Per_himself aka. Bassefar.
 - 👀 I’m interested in both front-end and back-end focused development, people and Informationsystems in general.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: [Send me an e-mail.](mailto:per.chr.vain@gmail.com)
