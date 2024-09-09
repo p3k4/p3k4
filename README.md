@@ -1,5 +1,5 @@
 - 👋 Hi, I'm peka_himself!
-- 👀 I’m interested in both front-end and back-end focused IT-development, beer and a chosen few people.
+- 👀 I’m interested in making prototypes, beer and a chosen few good people.
 - 🌱 I’m currently learning PostgreSQL, and revisiting Java (August 2024 to January 2025).
 
 - 📫 How to reach me: [Send me an e-mail.](mailto:per.chr.vain@gmail.com)
