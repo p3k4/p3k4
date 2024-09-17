@@ -6,7 +6,7 @@
 🍺: I love beer, [let's have a drink!](https://www.buymeacoffee.com/perchr)<br>
 🔊 My taste in [music.](https://open.spotify.com/user/pkmetal91?si=4020fdb395054406)<br>
 <br>
-Words I live by:
+Words try to live by:
 - Honesty, Humility and a good amount of curiosity.
 - Collaborate with Purpose.
-- Write drunk, edit sober.
+- Write drunk, edit sober..!
