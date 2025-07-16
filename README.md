@@ -1,4 +1,4 @@
-👋 Hi, I'm peka_himself! <br>
+👋 Hi, I'm Per Christian V! <br>
 👀 I’m interested in making prototypes, websites, beer and a chosen few good people.<br>
 🌱 I’m currently revisiting Java and learning C++ with Arduino (August 2024 to January 2025).<br>
 
