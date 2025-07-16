@@ -9,4 +9,4 @@
 Words try to live by:
 - Honesty, Humility and a good amount of curiosity.
 - Collaborate with Purpose.
-- Write drunk, edit sober..!
+- Write drunk, edit sober..?
