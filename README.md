@@ -8,5 +8,5 @@
 <br>
 Words try to live by:
 - Honesty, Humility and a good amount of curiosity.
-- Collaborate with Purpose.
-- Write drunk, edit sober..?
+- Collaborate with Purpose..?
+- Write drunk, edit sober..!
